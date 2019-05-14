@@ -46,3 +46,8 @@
 | Course conclusion | Eric or George | 15 minutes | |  |
 
 
+| Module | Owner | Duration | Student Link | Instructor Link
+| --- | --- | --- | --- | --- |
+| **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
+| Welcome and Kickoff | Eric or George | 30 min | | |
+
