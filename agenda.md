@@ -46,7 +46,7 @@
 | Course conclusion | Eric or George | 15 minutes | |  |
 
 
-| Student | Lab Environment | Duration | Student Link | Instructor Link
-| --- | --- | --- | --- | --- |
-| Student name 01 | https://labs.edu.ihost.com/1138315.s1/f461 | 30 min | | |
+| Student | Lab Environment
+| --- | --- |
+| Student name 01 | https://labs.edu.ihost.com/1138315.s1/f461 |
 
