@@ -46,8 +46,7 @@
 | Course conclusion | Eric or George | 15 minutes | |  |
 
 
-| Module | Owner | Duration | Student Link | Instructor Link
+| Student | Lab Environment | Duration | Student Link | Instructor Link
 | --- | --- | --- | --- | --- |
-| **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
-| Welcome and Kickoff | Eric or George | 30 min | | |
+| Student name 01 | https://labs.edu.ihost.com/1138315.s1/f461 | 30 min | | |
 
